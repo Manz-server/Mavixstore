@@ -1,0 +1,6 @@
+{
+  "name": "Mavix Store",
+  "description": "Website hosting Minecraft premium berkinerja tinggi, aman, dan instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
